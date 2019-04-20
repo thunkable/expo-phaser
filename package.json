@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@expo/browser-polyfill": "^0.0.0-alpha.4",
-    "phaser-ce": "^2.9.4"
+    "phaser-ce": "github:thunkable/phaser-ce#4a30a2f54bec7d1a5ab02e8d8d1e69610e801a70"
   },
   "directories": {
     "example": "examples",
